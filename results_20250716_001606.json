@@ -1,7 +1,7 @@
 {
   "overall_accuracy": 0.7401448525607863,
-  "total_correct": 28614,
-  "total_questions": 38660,
+  "total_correct": 14307,
+  "total_questions": 19330,
   "categories": [
     {
       "name": "capital-common-countries",

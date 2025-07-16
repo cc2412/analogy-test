@@ -74,6 +74,10 @@ def analyze_results(analogies):
             total_correct += correct
             total_questions += total
 
+    # The last section is about the total, so it is counted twice
+    total_correct /= 2
+    total_questions /= 2
+
     logger.info("=" * 60)
     overall_accuracy = total_correct / total_questions if total_questions > 0 else 0
     logger.info(f"{'OVERALL':30} {total_correct}/{total_questions} ({overall_accuracy:.2%})")
