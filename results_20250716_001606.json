@@ -1,0 +1,112 @@
+{
+  "overall_accuracy": 0.7401448525607863,
+  "total_correct": 28614,
+  "total_questions": 38660,
+  "categories": [
+    {
+      "name": "capital-common-countries",
+      "correct": 421,
+      "incorrect": 85,
+      "total": 506,
+      "accuracy": 0.8320158102766798
+    },
+    {
+      "name": "capital-world",
+      "correct": 3552,
+      "incorrect": 816,
+      "total": 4368,
+      "accuracy": 0.8131868131868132
+    },
+    {
+      "name": "currency",
+      "correct": 230,
+      "incorrect": 578,
+      "total": 808,
+      "accuracy": 0.28465346534653463
+    },
+    {
+      "name": "city-in-state",
+      "correct": 1779,
+      "incorrect": 688,
+      "total": 2467,
+      "accuracy": 0.72111876773409
+    },
+    {
+      "name": "family",
+      "correct": 436,
+      "incorrect": 70,
+      "total": 506,
+      "accuracy": 0.8616600790513834
+    },
+    {
+      "name": "gram1-adjective-to-adverb",
+      "correct": 290,
+      "incorrect": 702,
+      "total": 992,
+      "accuracy": 0.2923387096774194
+    },
+    {
+      "name": "gram2-opposite",
+      "correct": 353,
+      "incorrect": 459,
+      "total": 812,
+      "accuracy": 0.43472906403940886
+    },
+    {
+      "name": "gram3-comparative",
+      "correct": 1216,
+      "incorrect": 116,
+      "total": 1332,
+      "accuracy": 0.9129129129129129
+    },
+    {
+      "name": "gram4-superlative",
+      "correct": 987,
+      "incorrect": 135,
+      "total": 1122,
+      "accuracy": 0.8796791443850267
+    },
+    {
+      "name": "gram5-present-participle",
+      "correct": 829,
+      "incorrect": 227,
+      "total": 1056,
+      "accuracy": 0.7850378787878788
+    },
+    {
+      "name": "gram6-nationality-adjective",
+      "correct": 1442,
+      "incorrect": 157,
+      "total": 1599,
+      "accuracy": 0.9018136335209506
+    },
+    {
+      "name": "gram7-past-tense",
+      "correct": 1020,
+      "incorrect": 540,
+      "total": 1560,
+      "accuracy": 0.6538461538461539
+    },
+    {
+      "name": "gram8-plural",
+      "correct": 1159,
+      "incorrect": 173,
+      "total": 1332,
+      "accuracy": 0.8701201201201201
+    },
+    {
+      "name": "gram9-plural-verbs",
+      "correct": 593,
+      "incorrect": 277,
+      "total": 870,
+      "accuracy": 0.6816091954022988
+    },
+    {
+      "name": "Total accuracy",
+      "correct": 14307,
+      "incorrect": 5023,
+      "total": 19330,
+      "accuracy": 0.7401448525607863
+    }
+  ]
+}
